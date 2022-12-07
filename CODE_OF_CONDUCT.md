@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Platform Engineering Code of Conduct
 
 ## Our Pledge
 
