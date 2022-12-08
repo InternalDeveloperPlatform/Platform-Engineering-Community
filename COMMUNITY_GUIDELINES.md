@@ -9,14 +9,18 @@ Our mission is to nurture and grow the [Platform Engineering Community](http://w
 
 We developed the following community guidelines to provide guidance on how to engage with other users in the community and what you should expect from others. 
 
-*These guidelines are first and foremost useful for the Community, so the Community will be the main actor responsible for manteinance and continuous review. *
+*These guidelines are first and foremost useful for the Community, so the Community will be the main actor responsible for manteinance and continuous review. Everyone is welcome to participate in this document and comment/ask for changes.*
 
 ## The PE Slack Channel
 
 The Slack channel is the main community platform. With more than 8000 people participating (Dec 2022), it represents a good picture of the current
 platform engineering community.
 
-It is comprised of a list of channels that are represented down below (this list is not complete and ever-changing dependent on community wishes):
+The basic rules for the Slack channel in regards to promotion and product are: 
+* Things you can do: Post links to your own website/product, promote your talks, promote your meetups, connect with others in the allocated spaces as specified below.
+* Things you can't do: Only post self-promotional posts/comments; send unsolicited private messages to members about your self-promotional content; use redirects to obfuscate your self-promotional content.
+
+It is comprised of a list of channels that are represented down below (*this list is not complete and is ever-changing dependent on community wishes*):
 
 **Generic - Community leaders led:**
 
