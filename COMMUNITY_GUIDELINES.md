@@ -1,4 +1,6 @@
-Welcome to the Platform Engineering Slack Community. 
+## Community Guidelines
+
+Welcome to the Platform Engineering Community. 
 
 We are happy to offer a dedicated space for you to network with others, expand your knowledge and ask questions about Platform Engineering.
 You could be here to find a job, an answer to a problem, to inquire about a tool or study a use case for building your platform.
